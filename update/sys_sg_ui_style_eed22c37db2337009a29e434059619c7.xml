@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="incident">priority=4^EQ<item endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="4"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>priority</field>
+        <name>INCIDENT_PRIORITY_LOW</name>
+        <style>{"background_color":"#D1D6D8","font_color":"#293E40"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-04 08:37:26</sys_created_on>
+        <sys_id>eed22c37db2337009a29e434059619c7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>INCIDENT_PRIORITY_LOW</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_ui_style_eed22c37db2337009a29e434059619c7</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-04 08:41:43</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_ui_style>
+</record_update>

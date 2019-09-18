@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Incident">65e08544dbff37009a29e43405961902</button>
+        <item_parameter display_value="Edit_Incident_Business_Service_IP">eaf2c1c4dbff37009a29e434059619fc</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-05 06:53:08</sys_created_on>
+        <sys_id>32b45588db3377009a29e43405961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eaf2c1c4dbff37009a29e434059619fc</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_32b45588db3377009a29e43405961908</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-05 06:53:08</sys_updated_on>
+        <ui_parameter display_value="Business Service">1864dd48db3377009a29e43405961991</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

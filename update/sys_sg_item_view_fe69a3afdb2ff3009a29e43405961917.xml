@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="INC Unassigned by Group">c165e3abdb2ff3009a29e43405961917</data_item>
+        <dependency_fields>state,priority,short_description,caller_id,opened_at,number</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Size":16,"Weight":"bold"},"CellId":"state"}]},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Weight":"semibold","Size":13},"CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":21,"Width":128,"CellId":"priority"}]}]},{"Type":"Text","Margin":{"Top":9},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18},"CellId":"short_description"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":12},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"caller_id"},{"Type":"Text","Margin":{"Right":12},"TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"BackgroundColor":"#d1d6d8","Height":12,"Width":1},{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E5","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"opened_at"}]},{"Type":"Text","Margin":{"Top":6},"studio_template_field_id":"E6","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":13},"CellId":"number"}]}],"studio_card_id":"132198d123412300a8ed7f4fc7bf65d6"}</item_view_json>
+        <name>My group’s unassigned INC detail item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-04 04:25:37</sys_created_on>
+        <sys_id>fe69a3afdb2ff3009a29e43405961917</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>My group’s unassigned INC detail item view</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_item_view_fe69a3afdb2ff3009a29e43405961917</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-05 00:23:05</sys_updated_on>
+        <ui_styles>a9da3bf3dbeb37009a29e43405961989,cfc36077db2337009a29e434059619ee,eed22c37db2337009a29e434059619c7,e56a77f3dbeb37009a29e434059619e2</ui_styles>
+    </sys_sg_item_view>
+</record_update>

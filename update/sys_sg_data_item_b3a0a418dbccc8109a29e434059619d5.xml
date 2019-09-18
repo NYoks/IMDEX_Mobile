@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>CASE All Open</name>
+        <query_condition table="sn_customerservice_case">active=true^ORDERBYDESCsys_created_on<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-18 07:59:43</sys_created_on>
+        <sys_id>b3a0a418dbccc8109a29e434059619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CASE All Open</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_data_item_b3a0a418dbccc8109a29e434059619d5</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-18 07:59:43</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_data_item>
+</record_update>

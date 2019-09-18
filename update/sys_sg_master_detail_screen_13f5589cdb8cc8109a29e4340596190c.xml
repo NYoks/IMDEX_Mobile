@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="CASE Assigned to Me">0e95149cdb8cc8109a29e434059619ab</data_item>
+        <description>View all active cases that are assigned to me</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="address-card">0cf4281cdbccc8109a29e434059619fd</icon>
+        <name>My cases</name>
+        <order>20</order>
+        <parent>7fbb1d00db7377009a29e4340596192c</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-18 07:13:00</sys_created_on>
+        <sys_id>13f5589cdb8cc8109a29e4340596190c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>My cases</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_13f5589cdb8cc8109a29e4340596190c</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-18 08:18:20</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>

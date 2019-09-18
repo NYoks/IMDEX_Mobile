@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Set On-Hold">389d2880dbbf37009a29e43405961964</button>
+        <description/>
+        <field_name/>
+        <label>Set On-Hold</label>
+        <location>trailing_swipe</location>
+        <name>Set On-Hold</name>
+        <order>5</order>
+        <parent>5c24ac08db7f37009a29e4340596193d</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-05 04:35:21</sys_created_on>
+        <sys_id>8335f088dbbf37009a29e434059619aa</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Set On-Hold</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_button_instance_8335f088dbbf37009a29e434059619aa</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-05 06:06:08</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>

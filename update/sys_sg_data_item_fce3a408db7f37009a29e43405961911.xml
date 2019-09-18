@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>INC Assigned to Me</name>
+        <query_condition table="incident">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORDERBYpriority^ORDERBYstate^ORDERBYDESCsys_created_on<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="priority"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="state"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-05 03:19:33</sys_created_on>
+        <sys_id>fce3a408db7f37009a29e43405961911</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>INC Assigned to Me</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_data_item_fce3a408db7f37009a29e43405961911</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-06 06:23:03</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+</record_update>

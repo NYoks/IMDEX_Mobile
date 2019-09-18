@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen">
+    <sys_sg_related_lists_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">3a046508db7377009a29e4340596193a</icon>
+        <name>Related List</name>
+        <order>30</order>
+        <parent>6f5c1940db7377009a29e43405961909</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <show_count>true</show_count>
+        <sys_class_name>sys_sg_related_lists_screen</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-05 07:26:20</sys_created_on>
+        <sys_id>bf5c1940db7377009a29e43405961960</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_related_lists_screen_bf5c1940db7377009a29e43405961960</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-05 07:59:52</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_related_lists_screen>
+</record_update>

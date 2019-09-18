@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Set In Progress">ca2bb8ccdbbf37009a29e434059619d9</button>
+        <description/>
+        <field_name/>
+        <label>Set In Progress</label>
+        <location>trailing_swipe</location>
+        <name>Set In Progress</name>
+        <order>8</order>
+        <parent>cf69a3afdb2ff3009a29e4340596191a</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-05 05:03:26</sys_created_on>
+        <sys_id>2aabb000dbff37009a29e43405961936</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Set In Progress</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2aabb000dbff37009a29e43405961936</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-05 05:29:00</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>

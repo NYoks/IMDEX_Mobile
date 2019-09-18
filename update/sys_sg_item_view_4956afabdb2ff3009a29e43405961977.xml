@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="INC Unassigned by Group">c165e3abdb2ff3009a29e43405961917</data_item>
+        <dependency_fields/>
+        <item_view_json/>
+        <name>Unassigned by Group detail item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-04 04:12:07</sys_created_on>
+        <sys_id>4956afabdb2ff3009a29e43405961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unassigned by Group detail item view</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_item_view_4956afabdb2ff3009a29e43405961977</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-04 04:12:07</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

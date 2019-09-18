@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <application_roles>itil,itil_admin</application_roles>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Open ITSM knowledge base</description>
+        <external_browser>true</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="newspaper">491b6000dbbf37009a29e43405961950</icon>
+        <name>ITSM Knowledge base</name>
+        <order>40</order>
+        <parent>3770a3e3db2ff3009a29e434059619d1</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <relative_url>true</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-05 03:51:10</sys_created_on>
+        <sys_id>d91b6000dbbf37009a29e43405961982</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ITSM Knowledge base</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_d91b6000dbbf37009a29e43405961982</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-18 08:30:42</sys_updated_on>
+        <url>itsp?id=kb_view2</url>
+    </sys_sg_browser_screen>
+</record_update>

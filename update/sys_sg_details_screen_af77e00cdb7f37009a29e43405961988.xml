@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles>itil,itil_admin</application_roles>
+        <available_offline>false</available_offline>
+        <data_item display_value="INC All Open">ff17acc8db7f37009a29e43405961900</data_item>
+        <description>View all open incidents</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">3677200cdb7f37009a29e43405961939</icon>
+        <item_view display_value="All open incident detail item view">5b77a00cdb7f37009a29e434059619b0</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>a377e00cdb7f37009a29e4340596196a</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-05 03:35:18</sys_created_on>
+        <sys_id>af77e00cdb7f37009a29e43405961988</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_details_screen_af77e00cdb7f37009a29e43405961988</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-05 03:37:34</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

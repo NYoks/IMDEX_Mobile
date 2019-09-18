@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <application_roles>itil,itil_admin</application_roles>
+        <available_offline>false</available_offline>
+        <data_item display_value="INC Unassigned by Group">c165e3abdb2ff3009a29e43405961917</data_item>
+        <description/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">4b59ff2fdb6ff3009a29e434059619b2</icon>
+        <name>Activity Stream</name>
+        <order>20</order>
+        <parent>cf69a3afdb2ff3009a29e4340596191a</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-04 04:25:38</sys_created_on>
+        <sys_id>df69a3afdb2ff3009a29e4340596191e</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_df69a3afdb2ff3009a29e4340596191e</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-04 05:35:17</sys_updated_on>
+    </sys_sg_activity_stream_screen>
+</record_update>

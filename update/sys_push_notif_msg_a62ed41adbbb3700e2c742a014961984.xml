@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="INSERT_OR_UPDATE">
+        <message_string>Incident ${number} -- comments added</message_string>
+        <name>Incident commented [IMDEX Mobile]</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content display_value="Incident commented [IMDEX Mobile]">6f4ed41adbbb3700e2c742a01496198c</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-12 02:40:53</sys_created_on>
+        <sys_id>a62ed41adbbb3700e2c742a014961984</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Incident commented [IMDEX Mobile]</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_push_notif_msg_a62ed41adbbb3700e2c742a014961984</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-12 02:42:46</sys_updated_on>
+        <table>incident</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+</record_update>

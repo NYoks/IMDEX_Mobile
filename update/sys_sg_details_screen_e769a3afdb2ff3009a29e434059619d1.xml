@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles>itil,itil_admin</application_roles>
+        <available_offline>false</available_offline>
+        <data_item display_value="INC Unassigned by Group">c165e3abdb2ff3009a29e43405961917</data_item>
+        <description>My group’s unassigned incidents</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">b66963afdb2ff3009a29e4340596196c</icon>
+        <item_view display_value="My group’s unassigned INC detail item view">fe69a3afdb2ff3009a29e43405961917</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>cf69a3afdb2ff3009a29e4340596191a</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>nino.gonzales</sys_created_by>
+        <sys_created_on>2019-09-04 04:25:40</sys_created_on>
+        <sys_id>e769a3afdb2ff3009a29e434059619d1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
+        <sys_update_name>sys_sg_details_screen_e769a3afdb2ff3009a29e434059619d1</sys_update_name>
+        <sys_updated_by>nino.gonzales</sys_updated_by>
+        <sys_updated_on>2019-09-04 04:38:52</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>
