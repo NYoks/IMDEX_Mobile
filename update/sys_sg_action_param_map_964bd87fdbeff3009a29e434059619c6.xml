@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
-        <button display_value="INC Assigned to Me">096858bbdbeff3009a29e434059619e7</button>
+        <button display_value="INC - Assign to Me">096858bbdbeff3009a29e434059619e7</button>
         <item_parameter display_value="inc_assigned_to">15ea107fdbeff3009a29e434059619a3</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>nino.gonzales</sys_created_by>

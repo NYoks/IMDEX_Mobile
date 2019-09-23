@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Resolve Incident">ebbca363db6ff3009a29e43405961992</button>
+        <button display_value="INC - Resolve">ebbca363db6ff3009a29e43405961992</button>
         <description/>
         <field_name/>
         <label>Resolve</label>

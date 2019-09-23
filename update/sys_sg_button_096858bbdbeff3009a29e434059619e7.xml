@@ -22,7 +22,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>INC Assigned to Me</name>
+        <name>INC - Assign to Me</name>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <relative_url>true</relative_url>
@@ -36,17 +36,17 @@
         <sys_created_by>nino.gonzales</sys_created_by>
         <sys_created_on>2019-09-04 07:52:19</sys_created_on>
         <sys_id>096858bbdbeff3009a29e434059619e7</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>INC Assigned to Me</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>INC - Assign to Me</sys_name>
         <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
         <sys_update_name>sys_sg_button_096858bbdbeff3009a29e434059619e7</sys_update_name>
         <sys_updated_by>nino.gonzales</sys_updated_by>
-        <sys_updated_on>2019-09-18 08:40:36</sys_updated_on>
+        <sys_updated_on>2019-09-19 04:13:12</sys_updated_on>
         <table>incident</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
-        <write_back_action_item display_value="Assigned to Me - Incident_WB">cb7898bbdbeff3009a29e434059619eb</write_back_action_item>
+        <write_back_action_item display_value="INC_WB - Assign to Me">cb7898bbdbeff3009a29e434059619eb</write_back_action_item>
     </sys_sg_button>
 </record_update>

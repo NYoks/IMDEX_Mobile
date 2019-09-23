@@ -2,22 +2,22 @@
     <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
         <description/>
         <execution_script/>
-        <name>Edit_Incident_WB</name>
+        <name>INC_WB - Edit</name>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>nino.gonzales</sys_created_by>
         <sys_created_on>2019-09-05 05:28:13</sys_created_on>
         <sys_id>39f0c544dbff37009a29e4340596192f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Edit_Incident_WB</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>INC_WB - Edit</sys_name>
         <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_39f0c544dbff37009a29e4340596192f</sys_update_name>
         <sys_updated_by>nino.gonzales</sys_updated_by>
-        <sys_updated_on>2019-09-06 06:27:20</sys_updated_on>
+        <sys_updated_on>2019-09-19 06:33:34</sys_updated_on>
         <table>incident</table>
-        <template/>
+        <template>business_service={{Edit_Incident_Business_Service_IP}}^description={{Edit_Incident_Description_IP}}^impact={{Edit_Incident_Impact_IP}}^short_description={{Edit_Incident_Short_Description_IP}}^urgency={{Edit_Incident_Urgency_IP}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
     </sys_sg_write_back_action_item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Edit Incident">65e08544dbff37009a29e43405961902</button>
+        <button display_value="INC - Edit">65e08544dbff37009a29e43405961902</button>
         <description/>
         <field_name/>
         <label>Edit Incident</label>

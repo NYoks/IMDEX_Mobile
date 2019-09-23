@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
-        <button display_value="CASE Assigned to Me">d899e050db000c109a29e4340596196f</button>
+        <button display_value="CASE - Assign to Me">d899e050db000c109a29e4340596196f</button>
         <item_parameter display_value="unassigned_case_sys_id">4d6aa490db000c109a29e4340596198c</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>nino.gonzales</sys_created_by>

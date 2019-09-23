@@ -25,7 +25,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Edit Incident</name>
+        <name>INC - Edit</name>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <relative_url>true</relative_url>
@@ -34,22 +34,22 @@
         <show_confirmation>false</show_confirmation>
         <show_signature>false</show_signature>
         <sms/>
-        <success_message>Successfully updated incident</success_message>
+        <success_message>Successfully updated</success_message>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>nino.gonzales</sys_created_by>
         <sys_created_on>2019-09-05 05:28:37</sys_created_on>
         <sys_id>65e08544dbff37009a29e43405961902</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Edit Incident</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>INC - Edit</sys_name>
         <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
         <sys_update_name>sys_sg_button_65e08544dbff37009a29e43405961902</sys_update_name>
         <sys_updated_by>nino.gonzales</sys_updated_by>
-        <sys_updated_on>2019-09-05 05:48:23</sys_updated_on>
+        <sys_updated_on>2019-09-19 04:29:06</sys_updated_on>
         <table>incident</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
-        <write_back_action_item display_value="Edit_Incident_WB">39f0c544dbff37009a29e4340596192f</write_back_action_item>
+        <write_back_action_item display_value="INC_WB - Edit">39f0c544dbff37009a29e4340596192f</write_back_action_item>
     </sys_sg_button>
 </record_update>

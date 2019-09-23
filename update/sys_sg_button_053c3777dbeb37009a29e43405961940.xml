@@ -24,7 +24,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Reassign</name>
+        <name>INC - Reassign</name>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <relative_url>true</relative_url>
@@ -38,17 +38,17 @@
         <sys_created_by>nino.gonzales</sys_created_by>
         <sys_created_on>2019-09-05 00:26:09</sys_created_on>
         <sys_id>053c3777dbeb37009a29e43405961940</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Reassign</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>INC - Reassign</sys_name>
         <sys_package display_value="IMDEX Mobile" source="x_imdex_mobile">d2006f63db2ff3009a29e434059619b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="IMDEX Mobile">d2006f63db2ff3009a29e434059619b9</sys_scope>
         <sys_update_name>sys_sg_button_053c3777dbeb37009a29e43405961940</sys_update_name>
         <sys_updated_by>nino.gonzales</sys_updated_by>
-        <sys_updated_on>2019-09-05 03:29:57</sys_updated_on>
+        <sys_updated_on>2019-09-19 04:10:53</sys_updated_on>
         <table>incident</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
-        <write_back_action_item display_value="Assign Incident_WB">df5aff6fdb6ff3009a29e434059619c8</write_back_action_item>
+        <write_back_action_item display_value="INC_WB - Assign">df5aff6fdb6ff3009a29e434059619c8</write_back_action_item>
     </sys_sg_button>
 </record_update>

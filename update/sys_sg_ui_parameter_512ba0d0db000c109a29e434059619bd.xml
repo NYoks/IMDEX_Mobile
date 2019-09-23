@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="CASE Assigned to Me">d899e050db000c109a29e4340596196f</button>
+        <button display_value="CASE - Assign to Me">d899e050db000c109a29e4340596196f</button>
         <button_parent_table>sn_customerservice_case</button_parent_table>
         <carried>false</carried>
         <constant/>
